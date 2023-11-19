@@ -4,7 +4,7 @@ expired by 7 dec
 7e16b1767a3d4c48ad2c4cd268ef55578
 75432cc24a4d40eda3ee9c47b77d19578
 ea26201481614bd3a09f831df4e65b578
-1£0£2£4£6£u£0£_£a£2£4£6
+1$$0$$2$$4$$6$$u$$0$$_$$a$$2$$4$$6
 expired by 14 dec
 86cdddb90e144b909f9c943def353f578
 expired by 28 nov
